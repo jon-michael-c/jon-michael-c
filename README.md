@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Jon-Michael 👋
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jon-michael-c/)](https://www.linkedin.com/in/jon-michael-c/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat-square&link=https://yourportfolio.com)](https://jmcubano.com)
