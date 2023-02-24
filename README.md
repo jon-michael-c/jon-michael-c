@@ -24,7 +24,7 @@ You can find more of my projects on [my portfolio](https://jmcubano.com).
 
 ## 🎓 Education
 
-- [Bachelor's Degree](https://www.youruniversity.com/degree1) in Computer Science, CUNY Brooklyn Colelge, May 2022
+- [Bachelor's Degree](https://www.youruniversity.com/degree1) in Computer Science, CUNY Brooklyn College, May 2022
 
 ## 📈 Stats
 
